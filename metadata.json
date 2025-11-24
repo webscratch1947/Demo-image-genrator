@@ -1,0 +1,5 @@
+{
+  "name": "NanoGen Studio",
+  "description": "A powerful AI image generator and editor using Gemini 2.5 Flash Image. Generate new images from text or edit existing ones using natural language prompts.",
+  "requestFramePermissions": []
+}
